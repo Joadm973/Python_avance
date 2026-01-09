@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Martin",
+        "email": "alice.martin@email.com",
+        "age": 28,
+        "city": "Paris"
+    },
+    {
+        "id": 2,
+        "name": "Bob Dupont",
+        "email": "bob.dupont@email.com",
+        "age": 35,
+        "city": "Lyon"
+    },
+    {
+        "id": 3,
+        "name": "Claire Bernard",
+        "email": "claire.bernard@email.com",
+        "age": 42,
+        "city": "Marseille"
+    },
+    {
+        "id": 4,
+        "name": "David Leroy",
+        "email": "david.leroy@email.com",
+        "age": 31,
+        "city": "Bordeaux"
+    },
+    {
+        "id": 5,
+        "name": "Emma Petit",
+        "email": "emma.petit@email.com",
+        "age": 26,
+        "city": "Toulouse"
+    }
+]

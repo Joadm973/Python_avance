@@ -1,0 +1,23 @@
+[
+    {
+        "id": 3,
+        "name": "Claire Bernard",
+        "email": "claire.bernard@email.com",
+        "age": 42,
+        "city": "Marseille"
+    },
+    {
+        "id": 4,
+        "name": "David Leroy",
+        "email": "david.leroy@email.com",
+        "age": 31,
+        "city": "Bordeaux"
+    },
+    {
+        "id": 5,
+        "name": "Emma Petit",
+        "email": "emma.petit@email.com",
+        "age": 26,
+        "city": "Toulouse"
+    }
+]
