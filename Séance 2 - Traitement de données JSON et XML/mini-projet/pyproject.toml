@@ -1,0 +1,11 @@
+[project]
+name = "multi-format-parser"
+version = "0.1.0"
+description = "Script de parsing multi-format (JSON/XML) avec gestion d'erreurs"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
