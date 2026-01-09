@@ -10,12 +10,14 @@ from typing import Optional
 import re
 import pandas as pd
 
-from utils import (
+from utils.io import (
     read_csv,
     write_csv,
     read_log_file,
     write_text_file,
     get_all_log_files,
+)
+from utils.paths import (
     validate_input_path,
     get_output_dir,
 )
